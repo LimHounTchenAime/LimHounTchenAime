@@ -32,6 +32,6 @@ opérationnelle.
 #### Statistiques
 
 <div align="center">
-    <img align="center" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LimHounTchenAime&locale=fr&layout=compact" alt="Langages les plus utilisés" />
-    <img align="center" width="50.7%" src="https://github-readme-stats.vercel.app/api?username=LimHounTchenAime&show_icons=true&hide_rank=true&locale=fr" alt="Statistiques GitHub" />
+    <img align="center" width="36.8%" src="profile/top-langs.svg" alt="Langages les plus utilisés" />
+    <img align="center" width="52.4%" src="profile/stats.svg" alt="Statistiques GitHub" />
 </div>
