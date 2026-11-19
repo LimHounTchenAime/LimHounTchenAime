@@ -28,6 +28,7 @@ opérationnelle.
 | [Bellman-Ford et Dijkstra](https://github.com/LimHounTchenAime/bellman-ford-dijkstra) | Plus court chemin, comparaison expérimentale sur 96 graphes, résolution de labyrinthes | Java, JUnit |
 | [Leon App](https://github.com/LimHounTchenAime/LeonApp-VocabVoiceLearning) | Apprentissage du vocabulaire par synthèse vocale, application monopage | JavaScript, Web Speech API, Jest |
 | [SocketChat](https://github.com/LimHounTchenAime/socketchat) | Messagerie en temps réel : serveur TCP multi-clients et client graphique échangeant des objets sérialisés | Java, sockets, JavaFX |
+| [Crazy Charly Day 2024](https://github.com/zhishengtrieu/Crazy-Charly-Day) 🏆 | Inscriptions aux ateliers culinaires d'une association : questionnaire, back-office, répartition des candidats. Réalisé en une journée à cinq, équipe gagnante | NestJS, Vue.js, MariaDB |
 
 #### Statistiques
 
