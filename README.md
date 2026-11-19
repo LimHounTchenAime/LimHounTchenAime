@@ -22,12 +22,12 @@ opérationnelle.
 
 | Projet | Description | Technologies |
 |---|---|---|
-| [Générateur de diagrammes UML](https://github.com/LimHounTchenAime/S3B_SAEDev_Demarque_Faure_Hugot_LimHounTchen) | Diagramme de classes construit par introspection à partir de fichiers Java glissés dans la fenêtre | Java, JavaFX, Maven |
+| [Générateur de diagrammes UML](https://github.com/LimHounTchenAime/generateur-uml-javafx) | Diagramme de classes construit par introspection à partir de fichiers Java glissés dans la fenêtre | Java, JavaFX, Maven |
 | [API de gestion des Pals](https://github.com/LimHounTchenAime/api_gestion_pals) | API REST documentée avec Swagger, testée avec MockMvc | Spring Boot, JPA, H2 |
-| [Carte de Nancy et services RMI](https://github.com/LimHounTchenAime/BUT_AIL1_SAE_ProgrammationRepartie_Collin_Cunin_GomesOdent_LimHounTchen) | Carte Leaflet alimentée par des API publiques et un backend Java RMI derrière un proxy HTTPS | Java RMI, JavaScript, MariaDB |
-| [Bellman-Ford et Dijkstra](https://github.com/LimHounTchenAime/SAE2.02_graphe_limhount1u_lath3u) | Plus court chemin, comparaison expérimentale sur 96 graphes, résolution de labyrinthes | Java, JUnit |
+| [Carte de Nancy et services RMI](https://github.com/LimHounTchenAime/carte-nancy-rmi) | Carte Leaflet alimentée par des API publiques et un backend Java RMI derrière un proxy HTTPS | Java RMI, JavaScript, MariaDB |
+| [Bellman-Ford et Dijkstra](https://github.com/LimHounTchenAime/bellman-ford-dijkstra) | Plus court chemin, comparaison expérimentale sur 96 graphes, résolution de labyrinthes | Java, JUnit |
 | [Leon App](https://github.com/LimHounTchenAime/LeonApp-VocabVoiceLearning) | Apprentissage du vocabulaire par synthèse vocale, application monopage | JavaScript, Web Speech API, Jest |
-| [Plateforme de streaming](https://github.com/LimHounTchenAime/SAE-ApplicationWebSecurisee-S3B-Demarque-Faure-Hugot-LimHounTchen) | Séries et épisodes, comptes utilisateurs, favoris, commentaires et notes | PHP, PDO, MySQL |
+| [SocketChat](https://github.com/LimHounTchenAime/socketchat) | Messagerie en temps réel : serveur TCP multi-clients et client graphique échangeant des objets sérialisés | Java, sockets, JavaFX |
 
 #### Statistiques
 
