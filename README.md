@@ -1,6 +1,7 @@
 ### Bonjour 👋, je suis Aimé Lim Houn Tchen
 
-Je développe surtout en Java (back-end, applications de bureau, systèmes répartis) et m’intéresse à l’optimisation et à la recherche opérationnelle.
+☕ Java : back-end (Spring Boot), applications de bureau (JavaFX), systèmes répartis (RMI, sockets)
+📈 Centres d’intérêt : optimisation et recherche opérationnelle
 
 #### Technologies
 
