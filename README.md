@@ -1,7 +1,7 @@
 ### Bonjour 👋, je suis Aimé Lim Houn Tchen
 
-☕ Java : back-end (Spring Boot), applications de bureau (JavaFX), systèmes répartis (RMI, sockets)  
-📈 Centres d’intérêt : optimisation et recherche opérationnelle
+.☕ Java : back-end (Spring Boot), applications de bureau (JavaFX), systèmes répartis (RMI, sockets)  
+.📈 Centres d’intérêt : optimisation et recherche opérationnelle
 
 #### Technologies
 
