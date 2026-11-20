@@ -1,12 +1,6 @@
 ### Bonjour 👋, je suis Aimé Lim Houn Tchen
 
-Étudiant en Master 2 Informatique à l’INSA Hauts-de-France (Valenciennes), après un BUT Informatique à l'IUT Nancy-Charlemagne. 
-
-Je développe surtout en Java
-(back-end, applications de bureau, systèmes répartis) et je m'intéresse à l'optimisation et à la recherche
-opérationnelle.
-
-🔎 Je recherche un stage de fin d'études à partir de mars 2027.
+Master 2 Informatique, INSA Hauts-de-France (Valenciennes) · BUT Informatique, IUT Nancy-Charlemagne · Java / Spring Boot · Stage de fin d’études dès mars 2027
 
 #### Technologies
 
