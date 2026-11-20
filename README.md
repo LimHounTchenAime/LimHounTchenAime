@@ -1,7 +1,11 @@
-### Bonjour 👋, je suis Aimé Lim Houn Tchen
+# 👋 Bonjour, je suis Aimé Lim Houn Tchen
 
-- ☕ Java : back-end (Spring Boot), applications de bureau (JavaFX), systèmes répartis (RMI, sockets)  
-- 📈 Centres d’intérêt : optimisation et recherche opérationnelle
+Master 2 Informatique à l'INSA Hauts-de-France (Valenciennes) · BUT Informatique à l'IUT Nancy-Charlemagne
+
+🔎 Je recherche un stage de fin d'études à partir de mars 2027.
+
+- ☕ Java : back-end (Spring Boot), applications de bureau (JavaFX), systèmes répartis (RMI, sockets)
+- 📈 Centres d'intérêt : optimisation et recherche opérationnelle
 
 #### Technologies
 
