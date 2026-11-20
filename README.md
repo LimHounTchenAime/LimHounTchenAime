@@ -1,4 +1,5 @@
 ### 👋 Bonjour, je suis Aimé Lim Houn Tchen
+<h2 align="center">👋 Bonjour, je suis Aimé Lim Houn Tchen</h2>
 
 Master 2 Informatique à l'INSA Hauts-de-France (Valenciennes) · BUT Informatique à l'IUT Nancy-Charlemagne
 
